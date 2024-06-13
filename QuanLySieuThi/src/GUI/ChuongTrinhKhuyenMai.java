@@ -6,7 +6,7 @@ package GUI;
 
 /**
  *
- * @author NguyenQuocThai
+ * @author Admin
  */
 public class ChuongTrinhKhuyenMai extends javax.swing.JFrame {
 
